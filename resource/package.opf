@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid-id">
+      <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+            <dc:identifier id="uuid-id">place_holder</dc:identifier>
+            <dc:title>place_holder</dc:title>
+            <dc:language>place_holder</dc:language>
+            <meta property="dcterms:modified">place_holder</meta>
+      </metadata>
+      <manifest></manifest>
+      <spine></spine>
+</package>

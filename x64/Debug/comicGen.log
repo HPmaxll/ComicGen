@@ -1,0 +1,8 @@
+﻿  file_construct.c
+D:\vcpkg\installed\x64-windows\include\iconv.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Orter\source\repos\comicGen\comicGen\file_construct.c(13,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Orter\source\repos\comicGen\comicGen\file_construct.c(31,37): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\Orter\source\repos\comicGen\comicGen\file_construct.c(36,27): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\Orter\source\repos\comicGen\comicGen\file_construct.c(185,17): warning C4047: “函数”:“char *const ”与“char *[10]”的间接级别不同
+C:\Users\Orter\source\repos\comicGen\comicGen\file_construct.c(185,13): warning C4024: “sprintf_s”: 形参和实参 1 的类型不同
+  comicGen.vcxproj -> C:\Users\Orter\source\repos\comicGen\x64\Debug\comicGen.exe
